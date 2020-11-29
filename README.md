@@ -16,7 +16,7 @@ Here is what you will need to build this project yourself:
 
 ### Programming the TTGO T5
 
-You can find the Arduino sketch in the [vpn_rempte_control_gadget](./arduino/vpn_rempte_control_gadget) directory. 
+You can find the Arduino sketch in the [vpn_remote_control_gadget](./arduino/vpn_remote_control_gadget) directory. 
 
 1. Copy this directory into your Arduino sketch directory.
 2. Follow the instructions in the 
