@@ -90,6 +90,11 @@ case, and slide the lid shut.
 
 Optionally, the case can be mounted on surfaces by means of double-sided tape.
 
+## Contributing
+
+For questions or feedback, please file an issue here on GitHub. Feel free to open pull requests for any changes you 
+think the project could benefit from.
+
 ## Credits
 
 Code:
@@ -100,3 +105,7 @@ Code:
 CAD:
  - The eye illustration on the back of the lid is part of Samuel Jessurun de Mesquita's print 
    "Zelfportret van alleen de ogen" (public domain, see [here](http://hdl.handle.net/10934/RM0001.COLLECT.209046)).
+
+## License
+
+This project is published under the [MIT License](./LICENSE.md).
