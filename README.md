@@ -81,7 +81,7 @@ With the case, the TTGO T5 can be either used with a USB connection alone, or wi
 for a 80 mAh battery in the case (search for model number 301525).
 
 There are 6 cylindrical support pins that help the assembly stay in placing during printing. After printing, you need 
-to remove the 3 pins to separate the model into its 3 parts. If printed with PA 12, these pins should be easy to cut 
+to remove these 6 pins to separate the model into its 3 parts. If printed with PA 12, these pins should be easy to cut 
 with scissors, a knife, or simply bending until they break. To make sure all components slide and fit neatly, you should
  grind down any leftovers of the pins.
 
