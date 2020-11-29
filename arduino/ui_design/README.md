@@ -1,0 +1,2 @@
+UI design assets go here. The Flaticon license forbids offering the WiFi, WiFi error, VPN, and hourglass icons for 
+download, but you can download these icons yourself from the website if you would like to modify them. 
