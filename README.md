@@ -35,7 +35,7 @@ You can find the Arduino sketch in the [vpn_remote_control_gadget](./arduino/vpn
 
 Send the file [vpn_control_gadget_assembly_manuf.obj](./cad/manufacturing/vpn_remote_control_gadget_assembly_manuf.obj)
 to a 3D printing place of your choice. The case is designed so it can be printed through SLS with PA 12 material and a
-rough finish. An [vpn_control_gadget_assembly_manuf.stl](./cad/manufacturing/vpn_remote_control_gadget_assembly_manuf.stl)
+rough finish. A [vpn_control_gadget_assembly_manuf.stl](./cad/manufacturing/vpn_remote_control_gadget_assembly_manuf.stl)
 file is also available, should your printing place not like `.obj` files.
 
 ## Using the Gadget
