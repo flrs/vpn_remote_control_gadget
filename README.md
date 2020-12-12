@@ -60,6 +60,8 @@ converted to an Arduino-readable file format via the [LCD Image Converter](https
 
 ## CAD Overview
 
+(see also on [Thingiverse](https://www.thingiverse.com/thing:4668495))
+
 ![360 degree view of CAD assembly](./docs/360.gif)
 
 If you want to modify the case, you can find all CAD design files in the [cad/design](./cad/design) directory. You can
