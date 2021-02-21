@@ -16,7 +16,7 @@ Here is what you will need to build this project yourself:
 
 ### Programming the TTGO T5
 
-You can find the Arduino sketch in the [vpn_rempte_control_gadget](./arduino/vpn_rempte_control_gadget) directory. 
+You can find the Arduino sketch in the [vpn_remote_control_gadget](./arduino/vpn_remote_control_gadget) directory. 
 
 1. Copy this directory into your Arduino sketch directory.
 2. Follow the instructions in the 
@@ -35,7 +35,7 @@ You can find the Arduino sketch in the [vpn_rempte_control_gadget](./arduino/vpn
 
 Send the file [vpn_control_gadget_assembly_manuf.obj](./cad/manufacturing/vpn_remote_control_gadget_assembly_manuf.obj)
 to a 3D printing place of your choice. The case is designed so it can be printed through SLS with PA 12 material and a
-rough finish. An [vpn_control_gadget_assembly_manuf.stl](./cad/manufacturing/vpn_remote_control_gadget_assembly_manuf.stl)
+rough finish. A [vpn_control_gadget_assembly_manuf.stl](./cad/manufacturing/vpn_remote_control_gadget_assembly_manuf.stl)
 file is also available, should your printing place not like `.obj` files.
 
 ## Using the Gadget
@@ -60,6 +60,8 @@ converted to an Arduino-readable file format via the [LCD Image Converter](https
 
 ## CAD Overview
 
+(see also on [Thingiverse](https://www.thingiverse.com/thing:4668495))
+
 ![360 degree view of CAD assembly](./docs/360.gif)
 
 If you want to modify the case, you can find all CAD design files in the [cad/design](./cad/design) directory. You can
@@ -81,7 +83,7 @@ With the case, the TTGO T5 can be either used with a USB connection alone, or wi
 for a 80 mAh battery in the case (search for model number 301525).
 
 There are 6 cylindrical support pins that help the assembly stay in placing during printing. After printing, you need 
-to remove the 3 pins to separate the model into its 3 parts. If printed with PA 12, these pins should be easy to cut 
+to remove these 6 pins to separate the model into its 3 parts. If printed with PA 12, these pins should be easy to cut 
 with scissors, a knife, or simply bending until they break. To make sure all components slide and fit neatly, you should
  grind down any leftovers of the pins.
 
