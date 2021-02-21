@@ -101,7 +101,7 @@ may want to take on:
 ![VPN Remote Control Gadget bottom, open cover, with annotations](./docs/final_assembly_bottom_open_with_annotations.jpg)
 
 - **Tolerances of part are too large.** During design, I was extra cautious to implement a +0.5 mm tolerance in all directions. 
-These were too large, resulting in the PCB in the case sliding around and the slider originally not working. Filling material 
+This creates gaps that are too large, resulting in the PCB in the case sliding around and the slider originally not working. Filling material 
 gets the job of fixing the PCB done and makes the slider workable (see red ellipses). Before printing, I 
 would advise makers to add about 0.4 mm to the inner walls to restrict lateral movement of the PCB. Also consider that 
 this may bring the e-paper screen further off-center, potentially hiding part of the screen.
