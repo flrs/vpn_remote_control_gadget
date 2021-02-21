@@ -2,7 +2,7 @@
 
 > Make it easy to be more private on the internet and remote control the VPN settings on your ASUS RT-AC68U router.
 
-![VPN Remote Control Gadget Without Case](./docs/board.jpg)![VPN Remote Control Gadget Case](./docs/front_smaller.jpg)
+![VPN Remote Control Gadget Case](./docs/final_assembly_top.jpg)![VPN Remote Control Gadget Without Case](./docs/board.jpg)
 
 This project creates a remote control from the Arduino-programmed LilyGo TTGO T5 V2.3 ESP32 e-paper microcontroller 
 board and a custom-designed 3D-printed case.
@@ -89,6 +89,35 @@ Once all components are separated, push the on/off slider component onto the on/
 case, and slide the lid shut.
 
 Optionally, the case can be mounted on surfaces by means of double-sided tape.
+
+## Potential Design Improvements
+
+The design presented here and is functional. However, based on feedback from the very first 3d print of the gadget 
+(see make on [Thingiverse](https://www.thingiverse.com/make:906624)), there are a couple of improvements future makers
+may want to take on:
+
+![VPN Remote Control Gadget bottom, open cover, with annotations](./docs/final_assembly_bottom_open_with_annotations.jpg)
+
+- **Tolerances of part are too large.** During design, I was extra cautious to implement a +0.5 mm tolerance in all directions. 
+These were too large, resulting in the PCB in the case sliding around and the slider originally not working. Filling material 
+gets the job of fixing the PCB done and makes the slider workable (see last picture, red ellipses). Before printing, I 
+would advise makers to add about 0.4 mm to the inner walls, to restrict lateral movement of the PCB. Also consider that 
+this may bring the e-paper screen further off-center, potentially hiding part of the screen.
+
+- **Pushbutton casing component not properly dimensioned.** The gap between the lower side of the case's pushbutton 
+component is too far from the top of the actual pushbutton. This results in the user having to press the push button 
+in the casing with a lot of force, for the actual pushbutton to be actuated. I would advise adding about 0.5 mm to 
+the inner-facing part of the push button component in the casing before printing (see last picture, orange arrow).
+
+- **USB interface slot slightly misaligned.** The USB interface slot should be positioned a little bit more (about
+ 0.5 mm) to the left, looking from the bottom of the case. While the current position works for connecting any charger,
+ it is slightly off-center.
+
+- **Case cover too thin.** The sliding case cover, while functional, is subjectively too thin. It bends, making it 
+hard for the pin that goes into the groove for closing the cover to stay in place. For future iterations, I 
+would advise to deepen the groove for closing and to make the pin bigger. I would also advise to increase the 
+thickness of the cover. Alternatively, I would add structural elements to the underside of the cover to improve its stiffness.
+
 
 ## Contributing
 
