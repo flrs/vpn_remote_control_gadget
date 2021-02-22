@@ -108,7 +108,7 @@ this may bring the e-paper screen further off-center, potentially hiding part of
 
 - **Pushbutton casing component not properly dimensioned.** The gap between the lower side of the case's pushbutton 
 component is too far from the top of the actual pushbutton. This results in the user having to press the push button 
-in the casing with a lot of force, for the actual pushbutton to be actuated. I would advise adding about 0.5 mm to 
+in the casing with a lot of force for the actual pushbutton to be actuated. I would advise adding about 0.5 mm to 
 the inner-facing part of the push button component in the casing before printing (see orange arrow).
 
 - **USB interface slot slightly misaligned.** The USB interface slot should be positioned a little bit more (about
