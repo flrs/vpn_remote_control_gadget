@@ -94,7 +94,7 @@ Optionally, the case can be mounted on surfaces by means of double-sided tape.
 
 ## Potential Design Improvements
 
-The design presented here and is functional. However, based on feedback from the very first 3d print of the gadget 
+The design presented here is functional. However, based on feedback from the very first 3d print of the gadget 
 (see make on [Thingiverse](https://www.thingiverse.com/make:906624)), there are a couple of improvements future makers
 may want to take on:
 
